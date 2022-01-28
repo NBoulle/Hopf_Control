@@ -30,7 +30,7 @@ Select one example of the paper in the folder FitzHugh_Nagumo, Ginzburg_Landau, 
 @article{boulle2022Optimal,
   title={Optimal control of Hopf bifurcations},
   author={Boull{\'e}, Nicolas and Farrell, Patrick E and Rognes, Marie E},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2201.11684},
   year={2022}
 }
 ```
